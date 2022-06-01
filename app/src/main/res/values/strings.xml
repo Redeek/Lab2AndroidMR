@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2AndroidMR</string>
+    <string name="imie">Imie</string>
+    <string name="nazwisko">Nazwisko</string>
+    <string name="liczbaocen">Liczba ocen:</string>
+    <string name="oceny">Oceny</string>
+    <string name="name_seconda">name_SecondA</string>
+    <string name="surname_seconda">Surname_SecondA</string>
+    <string name="value">Value</string>
+    <string name="string_value" />
+
+
+</resources>
